@@ -10,7 +10,7 @@ This experiment recognizes image categories based on the CIFAR10 dataset.
 
 ## Prediction Result
 
-Here is a result of prediction :<br>
+Here is the result of prediction :<br>
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/kevinadhiguna/image-classification-tensorflow/master/illustration/predicting-images.png" />
