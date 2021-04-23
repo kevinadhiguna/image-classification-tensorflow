@@ -15,3 +15,5 @@ Here is the result of prediction :<br>
 <p align="center">
   <img src="https://raw.githubusercontent.com/kevinadhiguna/image-classification-tensorflow/master/illustration/predicting-images.png" />
 </p>
+
+[![Visits Badge](https://badges.pufler.dev/visits/kevinadhiguna/image-classification-tensorflow)](https://github.com/kevinadhiguna)
