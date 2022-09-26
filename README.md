@@ -16,4 +16,4 @@ Here is the result of prediction :<br>
   <img src="https://raw.githubusercontent.com/kevinadhiguna/image-classification-tensorflow/master/illustration/predicting-images.png" />
 </p>
 
-[![Visits Badge](https://badges.pufler.dev/visits/kevinadhiguna/image-classification-tensorflow)](https://github.com/kevinadhiguna)
+![Hello !](https://api.visitorbadge.io/api/VisitorHit?user=kevinadhiguna&repo=image-classification-tensorflow&label=thanks%20for%20dropping%20in%20!&labelColor=%23000000&countColor=%23FFFFFF)
